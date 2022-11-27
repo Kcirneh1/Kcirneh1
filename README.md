@@ -1,7 +1,7 @@
+
 <div align="center">
 <img src="[https://github.com/Kcirneh1/Kcirneh1/blob/main/Capture.PNG]"align="center" style="width: 100%">
 </div>  
-### Hi there 👋
 
 <!--
 **Kcirneh1/Kcirneh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
