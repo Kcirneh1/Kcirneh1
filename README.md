@@ -1,7 +1,7 @@
 ### Hi there, I'm Henrick! 🌞
 
 <div align="center">
-<img src="https://github.com/Kcirneh1/Kcirneh1/blob/main/Github_readme_banner.PNG" align="center" style="width: 100%" />
+<img src="https://github.com/Kcirneh1/Kcirneh1/blob/main/Github_banner.PNG" align="center" style="width: 100%" />
 </div>  
   
 
