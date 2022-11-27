@@ -1,4 +1,6 @@
-<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/Kcirneh1/Kcirneh1/blob/main/Capture.PNG)" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<div align="center">
+<img src="[https://github.com/Kcirneh1/Kcirneh1/blob/main/Capture.PNG]"align="center" style="width: 100%">
+</div>  
 ### Hi there 👋
 
 <!--
