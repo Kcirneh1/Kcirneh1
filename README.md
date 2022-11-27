@@ -1,7 +1,7 @@
-
-!(https://github.com/Kcirneh1/Kcirneh1/blob/main/Capture.PNG)
-
-
+<div align="center">
+<img src="https://github.com/Kcirneh1/Kcirneh1/blob/main/Github_readme_banner.PNG" align="center" style="width: 100%" />
+</div>  
+  
 ### Hi there, I'm Henrick! 🌞
 
 I'm a junior data scientist/business analyst with specialised knowledge in the domain of medical biotechnology.
