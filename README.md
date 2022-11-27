@@ -9,6 +9,11 @@ I'm a recent graduate of a double MSc. in Business Analytics and Medical Biotech
 
 <br/>  
 
+Feel free to get in touch through either LinkedIn or directly via e-mail. 
+
+<br/>  
+
+
 
 ## Software I enjoy working with   
 <table><tr>
@@ -50,6 +55,7 @@ I'm a recent graduate of a double MSc. in Business Analytics and Medical Biotech
 </div>  
   
 
+<div align="center">📫 henrickvanderscheer@live.nl</div>  
 <br/>  
 
 
