@@ -37,6 +37,9 @@ Feel free to get in touch through either LinkedIn or directly via e-mail.
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+<a href="https://www.microsoft.com/nl-nl/microsoft-365/word?rtc=1&activetab=tabs%3Afaqheaderregion3&market=nl/" target="_blank"><img style="margin: 10px" src="https://github.com/Kcirneh1/Kcirneh1/blob/main/Microsoft-Word-Logo-2019-present.jpg" alt="Word" height="50" /></a>  
+<a href="https://https://www.microsoft.com/nl-nl/microsoft-365/excel/" target="_blank"><img style="margin: 10px" src="https://github.com/Kcirneh1/Kcirneh1/blob/main/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" alt="Excel" height="50" /></a>  
+<a href="https://www.microsoft.com/nl-nl/microsoft-365/powerpoint/" target="_blank"><img style="margin: 10px" src="https://github.com/Kcirneh1/Kcirneh1/blob/main/Microsoft-PowerPoint-Logo.png" alt="Powerpoint" height="50" /></a>  
 </div>
 
 
