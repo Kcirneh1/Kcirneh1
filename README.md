@@ -9,6 +9,10 @@ I'm a recent graduate of a double MSc. in Business Analytics and Medical Biotech
 
 <br/>  
 
+Check out my portfolio (it's a work in progress) to see a few examples of the kind of analyses I could perform for you.
+
+<br/>  
+
 Feel free to get in touch through either LinkedIn or directly via e-mail. 
 
 <br/>  
